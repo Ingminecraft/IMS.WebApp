@@ -1,0 +1,12 @@
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.deps.json
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.AssemblyReference.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfo.cs
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\refint\IMS.CoreBusiness.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll

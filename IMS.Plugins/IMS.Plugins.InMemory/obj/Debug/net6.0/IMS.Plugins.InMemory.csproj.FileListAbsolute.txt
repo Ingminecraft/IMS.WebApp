@@ -1,0 +1,17 @@
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.deps.json
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.CoreBusiness.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.UseCases.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.UseCases.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.AssemblyInfo.cs
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.CopyComplete
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\refint\IMS.Plugins.InMemory.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\ref\IMS.Plugins.InMemory.dll

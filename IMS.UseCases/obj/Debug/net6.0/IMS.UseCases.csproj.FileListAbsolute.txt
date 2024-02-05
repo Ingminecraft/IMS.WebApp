@@ -1,0 +1,15 @@
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.deps.json
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.AssemblyReference.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfoInputs.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfo.cs
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CopyComplete
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\refint\IMS.UseCases.dll
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.pdb
+G:\02_Study\DOT_NET\IMS Rus\IMS.UseCases\obj\Debug\net6.0\ref\IMS.UseCases.dll
